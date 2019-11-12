@@ -1,0 +1,6 @@
+# ignore folder
+allure-report/
+logs/
+reports/
+*.log
+*.png
